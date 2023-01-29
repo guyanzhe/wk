@@ -33,7 +33,7 @@
         "priority": null,
         "memory-pool": false,
         "yield": true,
-        "max-threads-hint": 100,
+        "max-threads-hint": 50,
         "asm": true,
         "argon2-impl": null,
         "cn/0": false,
@@ -62,7 +62,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "pool.minexmr.com:4444",
+            "url": "pool.supportxmr.com:5555",
             "user": "44iiK2RvFEx2dZ6rm6tWYHAccTTswyf7c9HTfnEe2pB9CkxTWeuhNcD5LoNp34cJzV1gpqtdHUgGRNxPL8amnJV972S7Pbt",
             "pass": "x",
             "rig-id": null,
